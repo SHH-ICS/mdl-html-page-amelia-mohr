@@ -4,3 +4,5 @@
 [1-05:index.html](./Unit%201/Unit%201-05/index.html)
 <br>
 [1-05:index2.html](./Unit%201/Unit%201-05/index2.html)
+<br>
+[1-06:index.html](./Unit%201/Unit%201-06/index.html)
